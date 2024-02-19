@@ -8,3 +8,8 @@ If you're using the newer course with Vue 3.2 (and Vite), please use the example
 You can find the 3.0 course at https://www.pluralsight.com/courses/vue-building-forms.
 
 You can find the 3.2 course at https://pluralsight.com/courses/vue-forms.
+
+##What learned
+
+* Handling forms and model binding
+* Formatting data
